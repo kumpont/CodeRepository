@@ -10,6 +10,12 @@ namespace CodeRepository
     {
         static void Main(string[] args)
         {
+            Solution sol = new Solution();
+
+            //Console.WriteLine(sol.FirstFactorial(3));
+            //Console.WriteLine(sol.FirstReverse("HelloWorldEconomy"));
+
+            Console.ReadKey();
         }
     }
 }
